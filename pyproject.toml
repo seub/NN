@@ -1,13 +1,14 @@
 [tool.poetry]
 name = "NN"
 version = "0.1.0"
-description = "Neural Networks"
+description = ""
 authors = ["seub <brice.loustau@gmail.com>"]
-license = "GPL3"
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "3.9"
 matplotlib = "^3.5.1"
+numpy = "^1.22.1"
+torch = "^1.10.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.2.5"

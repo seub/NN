@@ -1,7 +1,7 @@
 name: NN
 
 channels:
-  - default
+  - defaults
   - conda-forge
 
 dependencies:
