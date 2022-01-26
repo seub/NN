@@ -1,2 +1,0 @@
-https://ealizadeh.com/blog/guide-to-python-env-pkg-dependency-using-conda-poetry
-https://shandou.medium.com/examples-of-using-conda-poetry-for-cross-platform-python-package-portability-711a7450a522
